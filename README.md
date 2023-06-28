@@ -27,8 +27,8 @@ https://weather-appication.vercel.app/location/chicago-3582383
 
 To learn more about Next.js, take a look at the following resources:
 
-* (Next.js Documentation) - learn about Next.js features and API.
-* Learn Next.js - an interactive Next.js tutorial.
+* [Next.js Documentation] - learn about Next.js features and API.
+* [Learn Next.js] - an interactive Next.js tutorial.
 
 ### Deployment on Vercel
 
