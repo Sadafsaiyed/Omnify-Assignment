@@ -21,4 +21,19 @@ https://weather-appication.vercel.app/location/chicago-3582383
 
 5. Further, using the command yarn run start, our project will get started at the server.
 
+* This application has been made on nextjs using APIs for data retrieval.
+
+### Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+* [(Next.js Documentation)] - learn about Next.js features and API.
+* Learn Next.js - an interactive Next.js tutorial.
+
+### Deployment on Vercel
+
+The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
+
+Check out our Next.js deployment documentation for more details.
+
 
