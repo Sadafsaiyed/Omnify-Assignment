@@ -4,7 +4,7 @@
 
 The application allows users to search for the weather conditions in a specific location and displays the temperature, and humidity for the selected location.
 The application has a user interface that is responsive and works on both desktop and mobile devices. 
-To retrieve the weather data we have used APIs.
+To retrieve the weather data,I have used APIs.
 
 # LIVE URL
 https://weather-appication.vercel.app/location/chicago-3582383
